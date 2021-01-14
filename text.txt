@@ -6,3 +6,5 @@ master conflict
 rebase conflict on branch
 sadasd
 master changes
+simple file
+one mire stash
